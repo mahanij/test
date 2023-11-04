@@ -50,6 +50,12 @@
         left: 10%;
         transform: rotate(180deg);
     }
+    90%{
+        position: absolute;
+        top: 85%;
+        left: 50%;
+    }
+    
 }
 
 
